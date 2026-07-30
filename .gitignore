@@ -8,3 +8,5 @@
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+solo_in_locale_presentazione/
+.agents/
